@@ -1,0 +1,2 @@
+The following are my solutions for variuos problems for Project Rosalind, which is a way to learn bioinformatics and various programming skills through problem solving
+http://rosalind.info/problems/locations
